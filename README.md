@@ -1,4 +1,4 @@
-# AutomaticEssayScoring
+# Automatic Essay Scoring
 A first-class dissertation project that automatically scores student essays and generates written feedback based on the score. 
 
 There are two main components to the project:
